@@ -24,7 +24,7 @@ The goal of this project is to create a simple model for studying using the conc
 -Promises
 -Async/Await
 -GitHub
--Kanban
+Kanban
   
 ## How do I run this JavaScript file?
 1. 
