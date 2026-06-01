@@ -40,3 +40,15 @@ skillmatch-js/
 │
 ├── skillmatch.js
 └── README.md
+```
+
+## KANBAN
+
+| Feature                | Status      |
+|------------------------|-------------|
+| Github repository      | Finished    |
+| Create READ.me         | Finished    |
+| Create Kanban          | Finished    |
+| Create files in Vscode | To do       |
+| Create video           | To do       |
+| Submit task            | To do       |
