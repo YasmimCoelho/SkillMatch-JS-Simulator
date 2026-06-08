@@ -45,11 +45,15 @@ skillmatch-js/
 
 ## KANBAN
 
-| Feature                | Status      |
-|------------------------|-------------|
-| Github repository      | Finished    |
-| Create READ.me         | Finished    |
-| Create Kanban          | Finished    |
-| Create files in Vscode | Finished    |
-| Create video           | Finished    |
-| Submit task            | Finished    |
+| Feature                                                   | Status      |
+|-----------------------------------------------------------|-------------|
+| Github repository                                         | Finished    |
+| Create READ.me                                            | Finished    |
+| Create Kanban                                             | Finished    |
+| Create files in Vscode                                    | Finished    |
+| Create the candidate object and the array of job openings | Finished    |
+| Create the job class and the inheritance                  | Finished    |
+| Create a function to calculate compatibility              | Finished    |
+| Create the logic for the interactive menu                 | Finished    |
+| Create video                                              | Finished    |
+| Submit task                                               | Finished    |
